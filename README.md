@@ -27,7 +27,7 @@ The API follows the documentation as given in the instructions to rust-task-3 wi
 | `PieceType`    | `King`, `Queen`, `Bishop`, `Knight`, `Rook`, `Pawn` | Represents the type of a chess piece. |
 
 ### Structure `Game`
-*As stated in the rust-task-3 assignment.*
+*As stated in the rust-task-3 assignment instructions.*
 | **Function** | **Description** |
 |--------------|-----------------|
 | `pub fn new() -> Game` | Initialises a new board with pieces. |
